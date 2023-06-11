@@ -1,3 +1,5 @@
+requests_html
+time
 matplotlib
 wordcloud
 datetime
@@ -8,6 +10,8 @@ textblob
 json
 re
 nltk
+math
+transformers
 prettytable
 imblearn
 collections
