@@ -9,6 +9,7 @@ seaborn
 textblob
 json
 re
+umap
 nltk
 math
 transformers
