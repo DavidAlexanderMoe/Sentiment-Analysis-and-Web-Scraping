@@ -2,7 +2,7 @@
 
 #### Project contents:
 - an Amazon review scraper based on the ASIN given in input;
-- a Sentiment Analysis on Amazon product reviews using ML and pre-trained DL models.
+- a Sentiment Analysis on Amazon product reviews using NLU techniques along with ML and pre-trained DL models.
 
 
 <p align="center">
