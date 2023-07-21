@@ -1,5 +1,5 @@
 # Sentiment Analysis on Amazon product reviews
-This repo contains an in-depth Sentiment analysis on Amazon product reviews with full explanation of the code. Multi-classification task using NLP (with nltk, TextBlob, VADER) along with various Machine Learning and Deep Learning models (RoBERTa). Offers also an Amazon ASIN-based review scraper module.
+This repo contains an in-depth Sentiment analysis on Amazon product reviews with full code explanation. Multi-classification task using NLP (with nltk, TextBlob, VADER) along with various Machine Learning and Deep Learning models (RoBERTa). Offers also an Amazon ASIN-based review scraper module.
 
 ### Project contents:
 - An Amazon review scraper based on the ASIN given in input;
